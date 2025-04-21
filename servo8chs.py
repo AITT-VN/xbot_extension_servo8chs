@@ -1,4 +1,3 @@
-from micropython import const
 from machine import *
 from time import sleep_ms, ticks_ms
 import math
